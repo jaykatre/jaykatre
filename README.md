@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1565c0,100:0d1117&height=200&section=header&text=Hi,%20I'm%20Jay%20Katre%20%F0%9F%91%8B&fontSize=36&fontColor=e6edf3&fontAlignY=38&desc=M.Tech%20CSE%20%C2%B7%20IIIT%20Lucknow%20%7C%20Research%20Assistant%20%7C%20Backend%20%26%20ML%20Systems&descSize=14&descAlignY=58&descColor=8b949e)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1565c0,100:0d1117&height=200&section=header&text=Hi,%20I'm%20Jay%20Katre%20👋&fontSize=36&fontColor=e6edf3&fontAlignY=38&desc=M.Tech%20CSE%20·%20IIIT%20Lucknow%20|%20Research%20Assistant%20|%20Backend%20%26%20ML%20Systems&descSize=14&descAlignY=58&descColor=8b949e)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&color=58A6FF&center=true&vCenter=true&width=620&lines=Backend+Engineer+%7C+FastAPI+%2F+Flask+%2F+Node.js;ML+Systems+%7C+RAG+%2F+LLM+Pipelines;Research+Assistant+%7C+IoT+Traffic+Congestion;C%2B%2B+Enthusiast+%7C+Ray+Tracing+%26+Systems)](https://git.io/typing-svg)
 
@@ -81,7 +81,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaykatre&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" height="170"/>
   &nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jaykatre&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ffa500&currStreakLabel=58a6ff" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaykatre&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ffa500&currStreakLabel=58a6ff" height="170"/>
 </div>
 
 <div align="center">
