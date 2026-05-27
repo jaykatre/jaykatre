@@ -79,13 +79,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaykatre&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" height="170"/>
-  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaykatre&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ffa500&currStreakLabel=58a6ff" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykatre&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaykatre&theme=github_dark" />
 </div>
 
 ---
